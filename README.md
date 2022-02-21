@@ -12,8 +12,12 @@
   Linear Regresyon() kullanarak veriyi eğittim daha sonra tekrar matplotlib kütüphanesini kullanarak tahmin edilen değer ile gerçek değeri çizdirdim ve sklearn kütüphanesinden mean squared error metric ile doğruluk hesabı yaptırdım.
   
   I trained the data using Linear Regression(), then again plotted the estimated value and the actual value using the matplotlib library, and calculated the accuracy with the mean squared error metric from the sklearn library.
-  
+    
   ![alt text](https://github.com/MelisaYasak/Predict-Dollar/blob/main/dollar2.png?raw=true)
+  
+  Lineer Regresyon() ile 300. gün tahmini yaptırdım.
+
+  I made a 300th day estimation with Linear Regression().
   
   Daha sonra grafiğin polinamal regresyona uyabileceğini düşünüp aynı veri setini Polinamal regresyonla tahmin ettirdim ve matplotlib ile tekrar çizdirdim ve sklearn kütüphanesinden mean squared error metric ile doğruluk hesabı yaptırdım.
   
@@ -24,3 +28,7 @@
   Gördüm ki polinomal Regresyona daha uygunmuş.
   
   I saw that it is more suitable for polynomial regression.
+  
+  Polinomal Regresyon ile 300. gün tahmini yaptırdım.
+
+  I made a 300th day estimation with Linear Regression().
